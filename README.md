@@ -63,7 +63,7 @@ Simply go to the [project repository](https://gitlab.informatika.org/if3111-2019
 ## System Setup
 
 1. Connect the Arduino for sensors to `/dev/ttyACM0` and the Arduino for actuators to `/dev/ttyACM1`.
-2. Open 4 terminals (or, if you're fancy, you can use terminal multiplexer like `tmux`, whatever), then on each terminal type in the following commands.
+2. Open 3 terminals (or, if you're fancy, you can use terminal multiplexer like `tmux`, whatever), then on each terminal type in the following commands.
 
         cd ~/<your_workspace>
         source /opt/ros/kinetic/setup.bash #or setup.zsh if you're using zsh
